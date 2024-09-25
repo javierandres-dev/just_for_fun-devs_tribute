@@ -1,1 +1,12 @@
 # just_for_fun-devs_tribute
+- Dennis Ritchie
+- Bjarne Strousturp
+- Anders Hejlsberg
+- James Gosling
+- Brendan Eich
+- Rasmus Lerdorf
+- Yukihiro Matsumoto
+- Guido Van Rossum
+- Larry Wall
+- Robert C. Martin
+- Michael Feathers
